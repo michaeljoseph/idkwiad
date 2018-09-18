@@ -14,15 +14,20 @@ The analogy I _really_ want to make, about what my job is _really_ like, though,
 
 Which can sometimes definitely feel not dissimilar to getting an 8 year old to bake you a chocolate cake using only WhatsApp.
 
-My talk is primarily about answering the following questions:
-* What _do_ I do anyway?
-    * What I did today
-    * What I have done
-    * What I'm supposed to be doing
-    * What I want to be doing
-    * What my next doing should be
+My talk is about discovering the answer to the titular question (aka 🤔wait, what _do_ I do anyways? aka do you wanna come listen to me talk about it?) and these are its sections:
 
-Along the way I'll share my humble opinions on:
-* The duality of knowability and teachability
-* Whether programming computers is hard or not
-* Some strategies for levelling up, professionally
+#### 000 wait, what (is programming like, anyways)?
+
+#### 100 this is what I've done (and learnt)
+
+#### 200 do you know what you want me to do?
+
+#### 300 these are just, like, my opinions, man
+
+* 310 YAGNI and abstraction addiction syndrome (AAS)
+* 320 TREAM (Tests rule everything around me)
+* 330 beware trends and other mind cults
+* 340 emulate the sprinting centipede
+* 350 how to be good
+
+#### 400 what do you want to do next?
